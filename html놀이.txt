@@ -1,0 +1,27 @@
+unsplash.com 저작권없는 고품질이미지.
+
+
+<p> 단락구분
+<br>줄바꿈
+<u> 밑줄
+<strong> 진하게
+<DOCTYPE HTML>
+<html>
+<head>
+<body>
+<ul>#li의 부모격 #unordered list
+<li>
+<ol>자동 넘버링 #ordered list
+<img src="?" width="?%">
+
+
+<title>?????</title>
+특히 title 태그는
+검색엔진이 웹페이지를 분석할 때
+가장 중요하게 생각하는 태그이기 때문에
+title 태그를 쓰지 않으면 정말 큰 손해랍니다.
+
+h ref (HTML Refference) HTML참조
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9GkFI1ovBbU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+(유툽영상첨부)
